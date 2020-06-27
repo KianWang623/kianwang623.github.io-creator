@@ -1,0 +1,4 @@
+baseURL = "https://kianwang623.github.io/"
+languageCode = "zh-Hans"
+title = "KianWang的小窝"
+theme = "ananke"
